@@ -1,0 +1,9 @@
+/.fleet
+/.idea
+/.vscode
+/vendor/
+/storage/**/*.key
+/storage/**/*.log
+/storage/postman/*.json
+.env
+.phpunit.result.cache
